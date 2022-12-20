@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614383886087",
+    "project_id": "appmusic-e6da6",
+    "storage_bucket": "appmusic-e6da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614383886087:android:75fd467909a061defe2fa2",
+        "android_client_info": {
+          "package_name": "com.Fpoly.AppMusicNhom3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614383886087-gku9c7fgl29jsiaig8o39hplklon6hes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc2iD5s8vupmW_xopYfipN7j3HxAIhcK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614383886087-gku9c7fgl29jsiaig8o39hplklon6hes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
